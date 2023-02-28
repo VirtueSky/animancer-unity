@@ -1,6 +1,6 @@
 # Animancer-Unity
 ## How to use:
-- Add the link below in manifest.json in folder Package ``for version 1.0.0``
+- Add the link below in ``manifest.json`` in folder Package ``for version 1.0.0``
 ```
 "com.virtuesky.animancer": "https://github.com/VirtueSky/animancer-unity.git#1.0.0",
 ```
